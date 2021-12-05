@@ -1,0 +1,11 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "Hello world http handler",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Johnny",
+  "license": "ISC"
+}
